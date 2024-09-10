@@ -1,1 +1,1 @@
-# DL-Project-For-Beginner
+# Image Classification
